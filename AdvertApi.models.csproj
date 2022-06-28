@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Tubotonba Harry</Authors>
+    <Company>Dealer-FX Inc</Company>
+    <Product>Web.Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/tonbaharry/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tonbaharry/WebAdvert.AdvertApi</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

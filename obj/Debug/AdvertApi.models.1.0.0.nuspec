@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdvertApi.models</id>
+    <version>1.0.0</version>
+    <authors>Tubotonba Harry</authors>
+    <projectUrl>https://github.com/tonbaharry/WebAdvert.AdvertApi</projectUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/tonbaharry/WebAdvert.AdvertApi" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\tubotonba.harry\source\repos\AdvertApi.models\bin\Debug\netcoreapp3.1\AdvertApi.models.dll" target="lib\netcoreapp3.1\AdvertApi.models.dll" />
+  </files>
+</package>

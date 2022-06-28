@@ -1,0 +1,10 @@
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\bin\Debug\netcoreapp3.1\AdvertApi.models.deps.json
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\bin\Debug\netcoreapp3.1\AdvertApi.models.dll
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\bin\Debug\netcoreapp3.1\AdvertApi.models.pdb
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\obj\Debug\netcoreapp3.1\AdvertApi.models.csproj.AssemblyReference.cache
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\obj\Debug\netcoreapp3.1\AdvertApi.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\obj\Debug\netcoreapp3.1\AdvertApi.models.AssemblyInfoInputs.cache
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\obj\Debug\netcoreapp3.1\AdvertApi.models.AssemblyInfo.cs
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\obj\Debug\netcoreapp3.1\AdvertApi.models.csproj.CoreCompileInputs.cache
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\obj\Debug\netcoreapp3.1\AdvertApi.models.dll
+C:\Users\tubotonba.harry\source\repos\AdvertApi.models\obj\Debug\netcoreapp3.1\AdvertApi.models.pdb
